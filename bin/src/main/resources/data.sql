@@ -1,5 +1,3 @@
-INSERT INTO USUARIO(nome, email, senha) VALUES('Aluno', 'aluno@email.com', '$2a$10$ABBtDGmxBdyvmmemBY7vtekDr67XOiFO.BxcWMGHM8hg.sS5NeBi2');
-
 INSERT INTO categoria (categoria, cor) VALUES ('Livre', 'Cinza');
 INSERT INTO categoria (categoria, cor) VALUES ('Programação', 'Verde');
 INSERT INTO categoria (categoria, cor) VALUES ('Front-end', 'Azul');
